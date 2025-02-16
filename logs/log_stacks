@@ -1,0 +1,12 @@
+10:22:07 INFO  [main] o.e.Logging - Hello World!
+10:22:07 WARN  [main] o.e.Logging - Hello World!
+10:22:07 ERROR [main] o.e.Logging - Hello World!
+10:30:43 INFO  [main] o.e.Logging - Hello World!
+10:30:43 WARN  [main] o.e.Logging - Hello World!
+10:30:43 ERROR [main] o.e.Logging - Hello World!
+09:36:41 INFO  [main] o.e.Logging - Hello World!
+09:36:41 WARN  [main] o.e.Logging - Hello World!
+09:36:41 ERROR [main] o.e.Logging - Hello World!
+12:13:41 INFO  [main] o.e.Logging - Hello World!
+12:13:41 WARN  [main] o.e.Logging - Hello World!
+12:13:41 ERROR [main] o.e.Logging - Hello World!

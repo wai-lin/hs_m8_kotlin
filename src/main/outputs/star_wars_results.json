@@ -1,0 +1,362 @@
+[
+{
+	"P1": {
+		"Name": "Luke Skywalker",
+		"Fraction": "JEDI",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Darth Vader",
+		"Fraction": "SITH",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Emperor Palpatine",
+		"Fraction": "SITH",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Yoda",
+		"Fraction": "JEDI",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Obi-Wan Kenobi",
+		"Fraction": "JEDI",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Darth Maul",
+		"Fraction": "SITH",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Kylo Ren",
+		"Fraction": "SITH",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Mace Windu",
+		"Fraction": "JEDI",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Count Dooku",
+		"Fraction": "SITH",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Qui-Gon Jinn",
+		"Fraction": "JEDI",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Darth Vader",
+		"Fraction": "SITH",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Luke Skywalker",
+		"Fraction": "JEDI",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Emperor Palpatine",
+		"Fraction": "SITH",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Yoda",
+		"Fraction": "JEDI",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Darth Maul",
+		"Fraction": "SITH",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Obi-Wan Kenobi",
+		"Fraction": "JEDI",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Mace Windu",
+		"Fraction": "JEDI",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Kylo Ren",
+		"Fraction": "SITH",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Qui-Gon Jinn",
+		"Fraction": "JEDI",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Count Dooku",
+		"Fraction": "SITH",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Darth Vader",
+		"Fraction": "SITH",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Luke Skywalker",
+		"Fraction": "JEDI",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Emperor Palpatine",
+		"Fraction": "SITH",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Yoda",
+		"Fraction": "JEDI",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Obi-Wan Kenobi",
+		"Fraction": "JEDI",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Darth Maul",
+		"Fraction": "SITH",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Mace Windu",
+		"Fraction": "JEDI",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Kylo Ren",
+		"Fraction": "SITH",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Qui-Gon Jinn",
+		"Fraction": "JEDI",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Count Dooku",
+		"Fraction": "SITH",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Leia Organa",
+		"Fraction": "REBEL",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Stormtrooper",
+		"Fraction": "IMPERIAL",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Han Solo",
+		"Fraction": "REBEL",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Imperial Officer",
+		"Fraction": "IMPERIAL",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Imperial Guard",
+		"Fraction": "IMPERIAL",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Chewbacca",
+		"Fraction": "REBEL",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "C3PO",
+		"Fraction": "REBEL",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Death Trooper",
+		"Fraction": "IMPERIAL",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "TIE Fighter Pilot",
+		"Fraction": "IMPERIAL",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "R2D2",
+		"Fraction": "REBEL",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Stormtrooper",
+		"Fraction": "IMPERIAL",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Leia Organa",
+		"Fraction": "REBEL",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Imperial Officer",
+		"Fraction": "IMPERIAL",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Han Solo",
+		"Fraction": "REBEL",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Chewbacca",
+		"Fraction": "REBEL",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Imperial Guard",
+		"Fraction": "IMPERIAL",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "C3PO",
+		"Fraction": "REBEL",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Death Trooper",
+		"Fraction": "IMPERIAL",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "R2D2",
+		"Fraction": "REBEL",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "TIE Fighter Pilot",
+		"Fraction": "IMPERIAL",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Leia Organa",
+		"Fraction": "REBEL",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Stormtrooper",
+		"Fraction": "IMPERIAL",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Imperial Officer",
+		"Fraction": "IMPERIAL",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Han Solo",
+		"Fraction": "REBEL",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Imperial Guard",
+		"Fraction": "IMPERIAL",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "Chewbacca",
+		"Fraction": "REBEL",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "Death Trooper",
+		"Fraction": "IMPERIAL",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "C3PO",
+		"Fraction": "REBEL",
+		"Score": 0
+	}
+},
+{
+	"P1": {
+		"Name": "TIE Fighter Pilot",
+		"Fraction": "IMPERIAL",
+		"Score": 1
+	},
+	"P2": {
+		"Name": "R2D2",
+		"Fraction": "REBEL",
+		"Score": 0
+	}
+}
+]

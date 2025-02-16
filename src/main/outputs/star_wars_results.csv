@@ -1,0 +1,31 @@
+P1,P1Fraction,P1Score,P2,P2Fraction,P2Score
+Luke Skywalker,JEDI,1,Darth Vader,SITH,0
+Emperor Palpatine,SITH,1,Yoda,JEDI,0
+Obi-Wan Kenobi,JEDI,1,Darth Maul,SITH,0
+Kylo Ren,SITH,1,Mace Windu,JEDI,0
+Count Dooku,SITH,1,Qui-Gon Jinn,JEDI,0
+Darth Vader,SITH,1,Luke Skywalker,JEDI,0
+Emperor Palpatine,SITH,1,Yoda,JEDI,0
+Darth Maul,SITH,1,Obi-Wan Kenobi,JEDI,0
+Mace Windu,JEDI,1,Kylo Ren,SITH,0
+Qui-Gon Jinn,JEDI,1,Count Dooku,SITH,0
+Darth Vader,SITH,1,Luke Skywalker,JEDI,0
+Emperor Palpatine,SITH,1,Yoda,JEDI,0
+Obi-Wan Kenobi,JEDI,1,Darth Maul,SITH,0
+Mace Windu,JEDI,1,Kylo Ren,SITH,0
+Qui-Gon Jinn,JEDI,1,Count Dooku,SITH,0
+Leia Organa,REBEL,1,Stormtrooper,IMPERIAL,0
+Han Solo,REBEL,1,Imperial Officer,IMPERIAL,0
+Imperial Guard,IMPERIAL,1,Chewbacca,REBEL,0
+C3PO,REBEL,1,Death Trooper,IMPERIAL,0
+TIE Fighter Pilot,IMPERIAL,1,R2D2,REBEL,0
+Stormtrooper,IMPERIAL,1,Leia Organa,REBEL,0
+Imperial Officer,IMPERIAL,1,Han Solo,REBEL,0
+Chewbacca,REBEL,1,Imperial Guard,IMPERIAL,0
+C3PO,REBEL,1,Death Trooper,IMPERIAL,0
+R2D2,REBEL,1,TIE Fighter Pilot,IMPERIAL,0
+Leia Organa,REBEL,1,Stormtrooper,IMPERIAL,0
+Imperial Officer,IMPERIAL,1,Han Solo,REBEL,0
+Imperial Guard,IMPERIAL,1,Chewbacca,REBEL,0
+Death Trooper,IMPERIAL,1,C3PO,REBEL,0
+TIE Fighter Pilot,IMPERIAL,1,R2D2,REBEL,0
