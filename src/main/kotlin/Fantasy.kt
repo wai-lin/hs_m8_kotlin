@@ -345,6 +345,7 @@ class RandomMatchService(private val characterService: CharacterService) : Match
     override fun match(rounds: Int, matchingStrategy: CharacterMatchingStrategy?): MatchResult {
         val challenger = characterService.findChallenger(matchingStrategy)
         val opponent = characterService.findOpponent(challenger, matchingStrategy)
+        println("\n\n")
         println(
             "Challenger: ${challenger.name} (H: ${challenger.health} | ${challenger.level} | ${challenger.characterClass} | Atk: ${challenger.attackPower})"
         )
@@ -392,4 +393,8 @@ object GameFactory {
 fun main() {
     val game = GameFactory.createGame()
     game.playMatch(20, CharacterMatchingStrategy.ANY)
+    game.playMatch(20, CharacterMatchingStrategy.byLevel(CharacterLevel.LEVEL_1))
+    game.playMatch(20, CharacterMatchingStrategy.byLevel(CharacterLevel.LEVEL_2))
+    game.playMatch(20, CharacterMatchingStrategy.byClass("Sorcerer"))
+    game.playMatch(20, CharacterMatchingStrategy.byClass("Warrior"))
 }
