@@ -12,7 +12,6 @@ data class CharacterMatchingStrategy(
 ) {
     companion object {
         val ANY = CharacterMatchingStrategy(null, null, null)
-        fun byName(name: String) = CharacterMatchingStrategy(name, null, null)
         fun byLevel(level: CharacterLevel) = CharacterMatchingStrategy(null, level, null)
         fun byClass(characterClass: String) = CharacterMatchingStrategy(null, null, characterClass)
     }
